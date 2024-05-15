@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washing machines Catalog</title>
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 1024px)" href="stylesheets/style1024px.css">
+    <link rel="stylesheet" media="screen and (max-width: 480px)" href="stylesheets/style480px.css">
+</head>
+<body>
+    <!-- ОБОЛОЧКА САЙТА-->
+    <div class="container">
+
+        <!-- ШАПКА САЙТА-->
+        <header>
+          <a href="index.html">
+            <div class="header_logo">
+              <img src="img/logo_top100px.svg" alt="logo">
+              <h1 class="TechGrove">
+                <span class="T">T</span>ech<span class="G">G</span>rove
+              </h1>
+            </div>
+          </a>
+    
+          <!-- НАВИГАЦИЯ В БЛОКЕ-->
+          <div class="header_nav">
+            <nav>
+              <ul>
+                <a href="index.html"><li>Главная</li></a>
+                <a href="index-payment.html"><li>оплата</li></a>
+                <a href="index-delivery.html"><li>доставка</li></a>
+                <a href="index-about-us.html"><li>О нас</li></a>
+                <a href="index-basket.html"><li>Корзина</li><img class="header_basket" src="img/svg_image.png" alt="Корзина"></a>
+              </ul>
+            </nav>
+          </div>
+          <div class="burger-menu">
+            <input type="checkbox" id="burgerToggle">
+            <label for="burgerToggle">
+              <span class="line"></span>
+              <span class="line"></span>
+              <span class="line"></span>
+            </label>
+            <ul>
+              <li><a href="index.html">Главная</a></li>
+              <li><a href="index-payment.html">Оплата</a></li>
+              <li><a href="index-delivery.html">Доставка</a></li>
+              <li><a href="index-about-us.html">О нас</a></li>
+              <li><a href="index-basket.html">Корзина <img class="header_basket" src="img/svg_image.png" alt="Корзина"></a></li>
+              <li class="has-submenu">
+                <input type="checkbox" id="catalogToggleCheckbox">
+                <label for="catalogToggleCheckbox" class="catalog-menu-toggle-label">
+                  <span class="line"></span>
+                  <span class="line"></span>
+                  <span class="line"></span>Каталог</label>
+                <ul class="catalog-menu">
+                  <li><a href="index-refrigerators.html">Холодильники</a></li>
+                  <li><a href="index-vacuums.html">Пылесосы</a></li>
+                  <li><a href="index-washing-machines.html">Стиральные машины</a></li>
+                  <li><a href="index-microwaves.html">Микроволновки</a></li>
+                  <li><a href="index-dishwashers.html">Посудомоечные машины</a></li>
+                  <li><a href="index-coffeemaker.html">Кофемашины</a></li>
+                  <li><a href="index-cooker-hoods.html">Вытяжки кухонные</a></li>
+                  <li><a href="index-baths.html">Ванны</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </header>
+  
+        <!-- ОБОЛОЧКА ОСНОВНОЙ ИНФОРМАЦИИ САЙТА-->
+        <div class="content ">
+  
+          <!-- БЛОК ОСНОВНОЙ ИНФОРМАЦИИ САЙТА-->
+          <main >
+            <div class="catalog" id="catalog"></div>
+          </main>
+  
+        </div>
+        <!-- ПОДВАЛ САЙТА -->
+        <footer>
+          <a href="index.html"><p class="TechGrove">
+            <span class="T">T</span>ech<span class="G">G</span>rove
+          </p></a>
+          <div class="feedback">
+            <div class="feedback--item1">Обратная связь</div>
+            <div class="feedback--item">Instagram</div>
+            <div class="feedback--item"><a href="https://www.instagram.com/vonsik_stanislav?igsh=MWZ6YmwyNHpyZ29sZQ==">vonsik_stanislav</a></div>
+            <div class="feedback--item">VKontakte</div>
+            <div class="feedback--item"><a href="https://vk.com/vonsik_stanislav">vonsik_stanislav</a></div>
+            <div class="feedback--item6"> <a href="https://discord.com/invite/sdK98pgp"> Наш discord!</div>
+          </div>
+          <div class="footer__left__info">
+            <div class="footer__info">
+                <a href="index-about-us.html"><p class="footer__info__text">о нас</p></a>
+                <a href="index-delivery.html"><p class="footer__info__text">доставка</p></a>
+                <a href="index-payment.html"><p class="footer__info__text">оплата</p></a>
+            </div>
+            <a class="button__to__top go--top"  id="button__to__top">
+              <img src="img/button_to_top.png" alt="">  
+            </a>
+          </div>
+        </footer>
+      </div>
+    <script src="js/script.js"></script>
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+        fetch('../xml/catalog.xml')
+        .then(response => response.text())
+        .then(xmlString => {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlString, 'text/xml');
+            
+            const products = xmlDoc.getElementsByTagName('product');
+        
+            const catalogDiv = document.getElementById('catalog');
+            for (let i = 0; i < products.length; i++) {
+                const product = products[i];
+                const type = product.getAttribute('type');
+                
+                // Проверяем тип продукта, если он "холодильники", то обрабатываем
+                if (type === 'стиральные машины') {
+                    const name = product.getElementsByTagName('name')[0].textContent;
+                    const price = product.getElementsByTagName('price')[0].textContent;
+                    const weight = product.getElementsByTagName('weight')[0].textContent;
+                    const width = product.getElementsByTagName('width')[0].textContent;
+                    const length = product.getElementsByTagName('length')[0].textContent;
+                    const motorType = product.getElementsByTagName('motorType')[0].textContent;
+                    const height = product.getElementsByTagName('height')[0].textContent;
+                    const color = product.getElementsByTagName('color')[0].textContent;
+                    const laundryLoadWeight = product.getElementsByTagName('laundryLoadWeight')[0].textContent;
+                    const availability = product.getElementsByTagName('availability')[0].textContent;
+                    const fullSpecs = product.getElementsByTagName('fullSpecs')[0].textContent;
+                    const image = product.getElementsByTagName('image')[0].textContent;
+
+                    // Текст для добавления перед значениями тегов
+                    const weightText = 'Вес: ';
+                    const widthText = 'Ширина: ';
+                    const lengthText = 'Длина: ';
+                    const motorTypeText = 'Тип мотора: ';
+                    const heightText = 'Высота: ';
+                    const colorText = 'Цвет: ';
+                    const laundryLoadWeightText = 'Вес загрузки белья: ';
+
+                    const productBlock = `
+                        <div class="product">
+                          <a href="index-page.html?name=${encodeURIComponent(name)}&price=${encodeURIComponent(price)}&weight=${encodeURIComponent(weight)}&width=${encodeURIComponent(width)}&length=${encodeURIComponent(length)}&height=${encodeURIComponent(height)}&motorType=${encodeURIComponent(motorType)}&color=${encodeURIComponent(color)}&laundryLoadWeight=${encodeURIComponent(laundryLoadWeight)}&availability=${encodeURIComponent(availability)}&fullSpecs=${encodeURIComponent(fullSpecs)}&image=${encodeURIComponent(image)}">
+                              <img class="product__img" src="${image}" alt="${name}">
+                          </a>
+                          <a href="index-page.html?name=${encodeURIComponent(name)}&price=${encodeURIComponent(price)}&weight=${encodeURIComponent(weight)}&width=${encodeURIComponent(width)}&length=${encodeURIComponent(length)}&height=${encodeURIComponent(height)}&motorType=${encodeURIComponent(motorType)}&color=${encodeURIComponent(color)}&laundryLoadWeight=${encodeURIComponent(laundryLoadWeight)}&availability=${encodeURIComponent(availability)}&fullSpecs=${encodeURIComponent(fullSpecs)}&image=${encodeURIComponent(image)}">
+                              <h2>${name}</h2>
+                          </a>
+                            <ul>
+                                <li><span class="product__span">${weightText}</span>${weight}</li>
+                                <li><span class="product__span">${widthText}</span>${width}</li>
+                                <li><span class="product__span">${lengthText}</span>${length}</li>
+                                <li><span class="product__span">${heightText}</span>${height}</li>
+                                <li><span class="product__span">${motorTypeText}</span>${motorType}</li>
+                                <li><span class="product__span">${colorText}</span>${color}</li>
+                                <li><span class="product__span">${laundryLoadWeightText}</span>${laundryLoadWeight}</li>
+                            </ul>
+                            <p>${price}</p>
+                            <button class="catalog__buy--button" data-item-name="${name}" onclick="addToCart('${name}', '${price}', this)">в корзину</button>
+                        </div>
+                    `;
+                    catalogDiv.innerHTML += productBlock;
+                }
+            }
+        
+            updateButtonStatus();
+        })
+        .catch(error => console.error('Error fetching XML:', error));
+    const urlParams = new URLSearchParams(window.location.search);
+    const name = urlParams.get('name');
+    const price = urlParams.get('price');
+    const weight = urlParams.get('weight');
+    const width = urlParams.get('width');
+    const length = urlParams.get('length');
+    const height = urlParams.get('height');
+    const NoFrost = urlParams.get('NoFrost');
+    const color = urlParams.get('color');
+    const freshnessZone = urlParams.get('freshnessZone');
+    const availability = urlParams.get('availability');
+    const fullSpecs = urlParams.get('fullSpecs');
+    const image = urlParams.get('image');
+    });
+
+
+    </script>
+</body>
+</html>

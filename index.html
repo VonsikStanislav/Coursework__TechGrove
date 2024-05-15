@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechGrove</title>
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 1024px)" href="stylesheets/style1024px.css">
+    <link rel="stylesheet" media="screen and (max-width: 480px)" href="stylesheets/style480px.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <style>
+      
+  </style>
+    <script>
+      
+    </script>
+</head>
+<body>
+    <!-- ОБОЛОЧКА САЙТА-->
+    <div class="container">
+
+      <!-- ШАПКА САЙТА-->
+      <header>
+        <a href="index.html">
+          <div class="header_logo">
+            <img src="img/logo_top100px.svg" alt="logo">
+            <h1 class="TechGrove">
+              <span class="T">T</span>ech<span class="G">G</span>rove
+            </h1>
+          </div>
+        </a>
+
+        <!-- НАВИГАЦИЯ В БЛОКЕ-->
+        <div class="header_nav">
+          <nav>
+            <ul>
+              <a href="index.html"><li>Главная</li></a>
+              <a href="index-payment.html"><li>оплата</li></a>
+              <a href="index-delivery.html"><li>доставка</li></a>
+              <a href="index-about-us.html"><li>О нас</li></a>
+              <a href="index-basket.html"><li>Корзина</li><img class="header_basket" src="img/svg_image.png" alt="Корзина"></a>
+            </ul>
+          </nav>
+        </div>
+      </header>
+
+      <!-- ОБОЛОЧКА ОСНОВНОЙ ИНФОРМАЦИИ САЙТА-->
+      <div class="content">
+
+        <!-- БЛОК ОСНОВНОЙ ИНФОРМАЦИИ САЙТА-->
+        <main>
+          <div class="content__menu">
+            <div class="content__menu__catalog">
+              <img class="content__menu__catalog__img" src="img/logo.svg" alt="">
+              <p class="content__menu__catalog__title">Каталог</p>
+              <div class="content__menu__catalog__hamburger-menu">
+                <input id="catalog__burger--checkbox" type="checkbox" class="catalog__burger--checkbox" />
+                <label class="catalog__burger" for="catalog__burger--checkbox"></label>  
+                <ul class="catalog__menu--list">
+                  <li><a class="catalog__menu__item" href="index-refrigerators.html">холодильники</a></li>
+                  <li><a class="catalog__menu__item" href="index-vacuums.html">пылесосы</a></li>
+                  <li><a class="catalog__menu__item" href="index-washing-machines.html">стиральные машины</a></li>
+                  <li><a class="catalog__menu__item" href="index-microwaves.html">микроволновки</a></li>
+                  <li><a class="catalog__menu__item" href="index-dishwashers.html">посудомоечные машины</a></li>
+                  <li><a class="catalog__menu__item" href="index-coffeemaker.html">кофемашины</a></li>
+                  <li><a class="catalog__menu__item" href="index-cooker-hoods.html">вытяжки кухонные</a></li>
+                  <li><a class="catalog__menu__item" href="index-baths.html">ванны</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="content__menu__location">
+              <img class="content__menu__location__img" src="img/Subtract.png" alt="">
+              <p class="content__menu__location__title">Минск</p>
+              <button class="content__menu__location__button" >
+                <img class="content__menu__location_triangle" src="img/Vector 3.svg" alt="">
+              </button>
+            </div>
+            <div class="content__menu__search">
+              <input type="text" id="searchInput" placeholder="Поиск...">
+              <button  class="clearButton" onclick="clearSearch()">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x">
+                    <line x1="32" y1="2" x2="2" y2="32"></line>
+                    <line x1="2" y1="2" x2="32" y2="32"></line>
+                </svg>
+            </button>
+              <button class="searchButton" onclick="search()">Найти</button>
+            </div>
+          </div>
+          <div class="content__line"></div>
+          <div id="searchResults"></div>
+          <!-- СЛАЙДЕР ПОПУЛЯРНОЕ -->
+          <div class="content__popular">
+            <p class="content__popular__title">Популярные категории</p>
+            <div class="content__popular__wrapper">
+              <div class="content__popular__slider">
+                <a href="index-coffeemaker.html"><div class="content__popular__slide"><img src="img/кофемашина_фон.png" alt=""><p>кофемашины</p></div>  </a>
+                <a href="index-microwaves.html"><div class="content__popular__slide"><img src="img/micro1.png" alt=""><p>микроволновые печи</p></div></a>
+                <a href="index-refrigerators.html"><div class="content__popular__slide"><img src="img/холодильник1_1.png" alt=""><p>холодильники</p></div></a>
+                <a href="index-vacuums.html"><div class="content__popular__slide"><img src="img/пылесос1_3.png" alt=""><p>пылесосы</p></div></a>
+              </div>
+            </div>
+          </div>
+          <div class="content_top"></div>
+        </main>
+
+      </div>
+      <!-- ПОДВАЛ САЙТА -->
+      <footer>
+        <a href="index.html"><p class="TechGrove">
+          <span class="T">T</span>ech<span class="G">G</span>rove
+        </p></a>
+        <div class="feedback">
+          <div class="feedback--item1">Обратная связь</div>
+          <div class="feedback--item">Instagram</div>
+          <div class="feedback--item"><a href="https://www.instagram.com/vonsik_stanislav?igsh=MWZ6YmwyNHpyZ29sZQ==">vonsik_stanislav</a></div>
+          <div class="feedback--item">VKontakte</div>
+          <div class="feedback--item"><a href="https://vk.com/vonsik_stanislav">vonsik_stanislav</a></div>
+          <div class="feedback--item6"> <a href="https://discord.com/invite/sdK98pgp"> Наш discord!</div>
+        </div>
+        <div class="footer__left__info">
+          <div class="footer__info">
+            <a href="index-about-us.html"><p class="footer__info__text">о нас</p></a>
+            <a href="index-delivery.html"><p class="footer__info__text">доставка</p></a>
+            <a href="index-payment.html"><p class="footer__info__text">оплата</p></a>
+          </div>
+          <a class="button__to__top go--top"  id="button__to__top">
+            <img src="img/button_to_top.png" alt="">  
+          </a>
+        </div>
+      </footer>
+    </div>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>    
+</body>
+</html>

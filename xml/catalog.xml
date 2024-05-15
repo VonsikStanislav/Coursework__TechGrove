@@ -1,0 +1,1782 @@
+<products>
+    <product type="холодильники">
+        <name>Холодильник LG GC-B509SBUM</name>
+        <price>2700 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 74  кг </weight>
+            <width><span class="product__span"></span> 59.5  см </width>
+            <length><span class="product__span"></span> 68.2  см </length>
+            <height><span class="product__span"></span> 203  см </height>
+            <NoFrost><span class="product__span"></span> Полный </NoFrost>
+            <color><span class="product__span"></span> черный</color>
+            <FreshnessZone><span class="product__span"></span> Да</FreshnessZone>
+        </basicSpecs>
+        <fullSpecs>Бренд LG;
+        Класс энергопотребления: А++;
+        Количество дверей: 2;
+        Общий полезный объем: 384 л;
+        Wi-Fi: Да;
+        Гарантия: 3 года;
+        Технология DoorCooling;
+        Регулятор FRESHBalancer; 
+        Переключатель FRESHConverter. </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/холодильникLG_GC-B509SBUM.jpg</image>
+    </product>
+    <product type="холодильники">
+        <name>Холодильник Samsung RB30J3000WW</name>
+        <price>1600 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 65 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 66.8 см</length>
+            <height><span class="product__span"></span> 185 см</height>
+            <NoFrost><span class="product__span"></span> Да</NoFrost>
+            <color><span class="product__span"></span> белый</color>
+            <FreshnessZone><span class="product__span"></span> Да</FreshnessZone>
+        </basicSpecs>
+        <fullSpecs>Общий объем: 311л;
+        тип компрессора: инвенторный;
+        тип управления: электронное; 
+        класс энергопотребления: А+;
+        уникальные технологии: SpaceMax;
+        уровень шума: 40 дБ;
+        гарантия: 1 год.</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/холодильникSamsung_RB30J3000WW.jpg</image>
+    </product>
+    <product type="холодильники">
+        <name>Холодильник LG GW-B509SMHZ</name>
+        <price>3000 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 75  кг </weight>
+            <width><span class="product__span"></span> 59.5  см </width>
+            <length><span class="product__span"></span> 68.2  см </length>
+            <height><span class="product__span"></span> 203  см </height>
+            <NoFrost><span class="product__span"></span> Полный</NoFrost>
+            <color><span class="product__span"></span> Стальной</color>
+            <FreshnessZone><span class="product__span"></span> Да</FreshnessZone>
+        </basicSpecs>
+        <fullSpecs>Общий объем холодильника: 419л;
+        класс энергопотребления: А++;
+        тип компрессора: инвенторно-линейный;
+        тип управления: электронное;
+        уровень шума: 36 дБ;
+        Технология Door Cooling +
+Кришка Moist Balance Crisper
+Технология Smart ThinQ ™ с управлением через WiFi
+</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/холодильникLG_GC-B509SMUM.jpg</image>
+    </product>
+    <product type="холодильники">
+    <name>Холодильник Bosch KIV86NSE0</name>
+    <price>2950 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 67 кг</weight>
+        <width><span class="product__span"></span> 54.1 см</width>
+        <length><span class="product__span"></span> 54.8 см</length>
+        <height><span class="product__span"></span> 177.2 см</height>
+        <NoFrost><span class="product__span"></span> Нет</NoFrost>
+        <color><span class="product__span"></span> белый</color>
+        <FreshnessZone><span class="product__span"></span> Да</FreshnessZone>
+    </basicSpecs>
+    <fullSpecs>Тип компрессора: инвенторный;
+    тип установки: встраиваемый;
+    технологии
+Low Frost, Eco AirFlow, MultiBox XXL
+уровень шума 35 дБ;
+класс энергопотребления: Е;
+срок гарантии: 3 года;
+</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Bosch_KIV86NSE0.png</image>
+</product>
+<product type="холодильники">
+    <name>Холодильник WEISSGAUFF WRKI 2801MD</name>
+    <price>1700 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 53 кг</weight>
+        <width><span class="product__span"></span> 54 см</width>
+        <length><span class="product__span"></span> 54 см</length>
+        <height><span class="product__span"></span> 177.2 см</height>
+        <NoFrost><span class="product__span"></span> Нет</NoFrost>
+        <color><span class="product__span"></span> белый</color>
+        <FreshnessZone><span class="product__span"></span> Да</FreshnessZone>
+    </basicSpecs>
+    <fullSpecs>Класс энергопотребления А+;
+    SMART-режим;
+    SUPER-режим;
+    слайдерное крепление фасада;
+    LED-освещение;
+    уровень шума 36 дБ;
+    общий объем 256 л;
+    срок гарантии: 1 год;</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/холодильникWEISSGAUFF_WRKI_2801MD.jpg</image>
+</product>
+<product type="холодильники">
+    <name>Холодильник Haier HB14FMAA</name>
+    <price>1920 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"> 67 кг</span></weight>
+        <width><span class="product__span"></span> 59.5 см</width>
+        <length><span class="product__span"></span> 65 см</length>
+        <height><span class="product__span"></span> 190 см</height>
+        <NoFrost><span class="product__span"></span> Полный</NoFrost>
+        <color><span class="product__span"></span> нержавеющая сталь</color>
+        <FreshnessZone><span class="product__span"></span> Нет</FreshnessZone>
+    </basicSpecs>
+    <fullSpecs>
+    Класс потребления: А++;
+    количество камер: 3;
+    общий объем: 382л;
+    LED-дисплей;
+    LED-освещение;
+    уровень шума 39 дБ;
+    срок гарантии: 1 год.</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/холодильникHAIER_CEF535ASD.jpg</image>
+</product>
+    <product type="стиральные машины">
+        <name>Стиральная машина LG F2J3WS2W</name>
+        <price>1350 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 60 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 44 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <motorType><span class="product__span"></span> Инвенторный</motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 6,5 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+        Прямой привод: Да;
+        Уровень шума при стирке: 55 дБ;
+        Уровень шума при отжиме: 74 дБ;
+        Материал бака: Пластик;
+        AI DD: Нет;
+        Режимы стирки: Полоскание и отжим, Смешанное белье, Хлопок, Хлопок макс., Шерсть, Деликатная стирка, Повседневная стирка, Детская одежда, Быстрая стирка, Спортивная одежда;
+         Быстрая стирка: 
+	Да;
+Выбор скорости отжима:
+	Да;
+Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+     Контроль баланса барабана при отжиме: 
+	Да;
+    Класс энергопотребления: А+++;
+    Расход воды за стирку: 56л;
+    Срок гарантии: 3 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стиральная_машина_LG F2J3WS2W.jpg</image>
+    </product>
+        <product type="стиральные машины">
+        <name>Стиральная машина Indesit EWSB 5085 BK CIS</name>
+        <price>840 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 54,2 кг</weight>
+            <width><span class="product__span"></span> 59,5 см</width>
+            <length><span class="product__span"></span> 42 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <motorType><span class="product__span"></span> Инвенторный</motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 5 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+        Тип загрузки: фронтальная;
+        Управление: электронное;
+         Дисплей: 
+	Нет;
+Диаметр люка:
+	30.5  см;
+Уровень шума при стирке: 
+	60  дБ;
+Уровень шума при отжиме: 
+	74  дБ;
+    AI DD: нет;
+    Количество программ стирки:
+	16;
+Режимы стирки: 
+	Детская одежда, Отжим/Слив, Полоскание, Пуховые вещи, Синтетика, Смешанное белье, Спортивная обувь, Спортивная одежда, Хлопок, Хлопок 59 мин, Хлопок 90˚, Хлопок Эко 60˚, Цветные ткани, Шелк/занавески, Шерсть, Экспресс;
+     Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+Резервуар для воды: 
+	Нет;
+Прямое попадание моющего средства на ткань: 
+	Нет;
+     Класс энергопотребления: 
+	A; 
+    Скорость отжима до: 
+	800  об/мин;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стиральная_машина_Indesit_EWSB_5085_BK_CIS.jpg</image>
+    </product>
+        <product type="стиральные машины">
+        <name>Стиральная машина BEKO WSPE6H612W</name>
+        <price>800 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 56 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 44 см</length>
+            <height><span class="product__span"></span> 84 см</height>
+            <motorType><span class="product__span"></span> Инвенторный</motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 6,5 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+         Микропроцессорное управление стиркой: 
+	Да;
+Дисплей: 
+	Цифровой;
+    Количество программ стирки: 
+	15;
+режимы стирки: 
+	Антиаллергенная стирка, Бережная, Отжим/Слив, Полоскание, Пух, Рубашки, Синтетика, Смешанное белье, Спортивная одежда, Темные вещи / джинсы, Удаление пятен, Хлопок, Хлопок эко, Шерсть, Экспресс 14';
+Быстрая стирка: 
+	Да;
+Выбор скорости отжима: 
+	Да;
+Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+Отложенный старт: 
+	Да;
+Резервуар для воды: 
+	Нет;
+Прямое попадание моющего средства на ткань: 
+	Нет;
+     Охлаждение воды перед сливом: 
+	Нет;
+Контроль баланса барабана при отжиме: 
+	Да;
+     Скорость отжима до: 
+	1200  об/мин;
+Расход воды за стирку: 
+	49;  
+    Срок гарантии: 2 года;
+    </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стиральная_машина_BEKO_WSPE6H612W.jpg</image>
+    </product>
+        <product type="стиральные машины">
+        <name>Стиральная машина Candy CS4 1061D3/2-BY</name>
+        <price>780 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 65 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 43,2 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <motorType><span class="product__span"></span> Инвенторный</motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 6 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+         Микропроцессорное управление стиркой: 
+	Да;
+Дисплей: 
+	Цифровой ;
+    Диаметр люка: 
+	35  см;
+Уровень шума при стирке: 
+	58  дБ;
+Уровень шума при отжиме: 
+	77  дБ;
+    AI DD: 
+	Нет;
+    Количество программ стирки: 
+	16;
+режимы стирки: 
+	Хлопок + предварительная стирка, Белый хлопок, Хлопок, Eco mix, Smart touch, Джинсы, Отжим/Слив, Полоскание, Ручная стирка, Синтетика, Ежедневная стирка, Шерсть, Деликатная стирка, Детская одежда, Быстрая стирка;
+Быстрая стирка: 
+	Да;
+Выбор скорости отжима: 
+	Да;
+Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+Отложенный старт: 
+	Да;
+Резервуар для воды: 
+	Нет;
+     Контроль баланса барабана при отжиме: 
+	Да;
+Контроль уровня пены: 
+	Да;
+     Класс энергопотребления: 
+	A+++;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стиральная_машина_узкая_Candy_CS4_1061D3-2-BY.jpg</image>
+    </product>
+        <product type="стиральные машины">
+        <name>Стиральная машина LG F2J6HG7W</name>
+        <price>1780 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 60 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 45 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <motorType><span class="product__span"></span> Инверторный </motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 7 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+        Управление: 
+	Электронное;
+Микропроцессорное управление стиркой: 
+	Да;
+     Дисплей: 
+	Сенсорный;
+Звуковой сигнал: 
+	Да;
+Уровень шума при стирке: 
+	55  дБ;
+Уровень шума при отжиме: 
+	74  дБ;
+    AI DD: 
+	Нет;
+    Количество программ стирки: 
+	14;
+Программы (режимы) стирки: 
+	Хлопок, Шерсть, Спортивная одежда, Пуховое одеяло, Смешанное белье, Удаление пятен, Гипоаллергенная стирка, Бережная, Темные ткани, Повседневная стирка, Детская одежда, Обработка паром, Хлопок +;
+Быстрая стирка: 
+	Да;
+Выбор скорости отжима: 
+	Да;
+Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+Отложенный старт: 
+	Да;
+     Контроль баланса барабана при отжиме: 
+	Да;
+Контроль уровня пены: 
+	Да;
+     Класс энергопотребления: 
+	A+++;
+    Срок гарантии: 3 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стирально-сушильная_машина_LG_F2J6HG7W.jpg</image>
+    </product>
+        <product type="стиральные машины">
+        <name>Стиральная машина LG F2J3NS2W</name>
+        <price>800 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 59 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 44 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <motorType><span class="product__span"></span> Инвенторный</motorType>
+            <color><span class="product__span"></span> белый</color>
+            <laundryLoadWeight><span class="product__span"></span> 6 кг</laundryLoadWeight>
+        </basicSpecs>
+        <fullSpecs>
+        Управление:
+	Электронное;
+Дисплей:
+	Сенсорный;
+Звуковой сигнал:
+	Да;
+Уровень шума при стирке: 
+	53  дБ;
+Уровень шума при отжиме: 
+	73  дБ;
+    AI DD: 
+	Нет;
+    Количество программ стирки: 
+	10;
+Программы (режимы) стирки: 
+	Смешанное белье, Хлопок, Шерсть, Деликатная стирка, Детская одежда, Быстрая стирка, Предварительная стирка, Спортивная одежда, Полоскание и отжим, Повседневная стирка;
+Быстрая стирка: 
+	Да;
+Выбор скорости отжима: 
+	Да;
+Выбор температуры стирки: 
+	Да;
+Выбор времени окончания стирки: 
+	Нет;
+Отложенный старт: 
+	Нет;
+     Контроль баланса барабана при отжиме: 
+	Да;
+Контроль уровня пены: 
+	Да;
+     Класс энергопотребления: 
+	A;
+     Скорость отжима до: 
+	1200  об/мин;
+Расход воды за стирку: 
+	56  л;
+    Срок гарантии: 3 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Стиральная_машина_LG_F2J3NS2W.jpg</image>
+    </product>
+    <product type="микроволновые печи">
+    <name>Микроволновая печь LG MS2595CIST</name>
+    <price>750 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 15 кг</weight>
+        <width><span class="product__span"></span> 50 см</width>
+        <length><span class="product__span"></span> 40 см</length>
+        <height><span class="product__span"></span> 30 см</height>
+        <power><span class="product__span"></span> 1150 Вт</power>
+        <color><span class="product__span"></span> серебристый</color>
+        <grill><span class="product__span"></span> Нет</grill>
+    </basicSpecs>
+    <fullSpecs>Объем микроволновой печи  25л;
+    Внутреннее покрытие стенок  Антибактериальное, Эмаль ;
+    Диаметр тарелки  292мм;
+    Система равномерного распространения микроволн: нет;
+    Автоматические программы приготовления: да;
+    Управление: электронное;
+    Срок гарантии: 2 года;</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/микроволновая_печь_LG_s2595C.jpg</image>
+</product>
+
+<product type="микроволновые печи">
+    <name>Микроволновая печь SAMSUNG MS23F301TQW/BW</name>
+    <price>400 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 12 кг</weight>
+        <width><span class="product__span"></span> 48,9 см</width>
+        <length><span class="product__span"></span> 37,4 см</length>
+        <height><span class="product__span"></span> 27,5 см</height>
+        <power><span class="product__span"></span> 800 Вт</power>
+        <color><span class="product__span"></span> Белый</color>
+        <grill><span class="product__span"></span> Нет</grill>
+    </basicSpecs>
+    <fullSpecs>Объем микроволновой печи:  23л;
+    Внутреннее покрытие стенок:  Биокерамика;
+    Количество уровней мощности:  6;
+    Режим поддержания тепла: Да;
+    Система равномерного распространения микроволн: Да;
+    Автоматические программы приготовления: Да;
+    Управление: электронное;
+    Срок гарантии: 1 год;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Микроволновая_печь_SAMSUNG_MS23F301TQW_BW.jpg</image>
+</product>
+
+<product type="микроволновые печи">
+    <name>Микроволновая печь MIDEA AM720C4E-W</name>
+    <price>230 бел.руб</price>
+    <basicSpecs>
+                <weight><span class="product__span"></span> 10,5 кг</weight>
+        <width><span class="product__span"></span> 44 см</width>
+        <length><span class="product__span"></span> 33,6 см</length>
+        <height><span class="product__span"></span> 25,8 см</height>
+        <power><span class="product__span"></span> 1150 Вт</power>
+        <color><span class="product__span"></span> белый</color>
+        <grill><span class="product__span"></span> Нет</grill>
+    </basicSpecs>
+    <fullSpecs>Объем микроволновой печи:  20л;
+    Внутреннее покрытие стенок:  Эмаль;
+    Количество уровней мощности:  5;
+    Диаметр тарелки:  25,5 см;
+    Пароварка: нет;
+    Автоматические программы приготовления: да;
+    Режимы тепловой обработки:  Автоматическое приготовление, Быстрый старт, Размораживание, Разогрев;
+    Мощность микроволнового излучателя: 700Вт;
+    Управление: электронное;
+    Срок гарантии: 1 год;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Микроволновая_печь_MIDEA_AM720C4E-W.jpg</image>
+</product>
+
+<product type="микроволновые печи">
+    <name>Микроволновая печь HORIZONT 20MW800-1479BFS</name>
+    <price>250 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 11,3 кг</weight>
+        <width><span class="product__span"></span> 44,4 см</width>
+        <length><span class="product__span"></span> 36,2 см</length>
+        <height><span class="product__span"></span> 26 см</height>
+        <power><span class="product__span"></span> 800 Вт Вт</power>
+        <color><span class="product__span"></span> серебристый</color>
+        <grill><span class="product__span"></span> Да</grill>
+    </basicSpecs>
+    <fullSpecs>Объем микроволновой печи: 20л;
+    Внутреннее покрытие стенок: Эмаль;
+    Количество уровней мощности: 5;
+    Диаметр тарелки: 25,5 см;
+    Тип гриля: кварцевый;
+    Система равномерного распространения микроволн: нет;
+    Автоматические программы приготовления: да;
+    Режимы тепловой обработки: Автоматическое приготовление, Авторазмораживание, Размораживание, Разогрев;
+    Мощность микроволнового излучателя: 800Вт;
+    Мощность гриля 1000Вт;
+    Управление: электронное;
+    Срок гарантии: 1 год;  
+     </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Микроволновая_печь_HORIZONT_20MW800-1479BFS.jpg</image>
+</product>
+
+<product type="микроволновые печи">
+    <name>Микроволновая печь Samsung MS23F302TQS/BW</name>
+    <price>499.99 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 12 кг</weight>
+        <width><span class="product__span"></span> 48,9 см</width>
+        <length><span class="product__span"></span> 37,4 см</length>
+        <height><span class="product__span"></span> 27,5 см</height>
+        <power><span class="product__span"></span> 800 Вт</power>
+        <color><span class="product__span"></span> серебристый</color>
+        <grill><span class="product__span"></span> Нет</grill>
+    </basicSpecs>
+    <fullSpecs>Объем микроволновой печи: 23л;
+    Внутреннее покрытие стенок: Биокерамика;
+    Количество уровней мощности: 6;
+    Диаметр тарелки: 28,8 см;
+    Система равномерного распространения микроволн: Да;
+    Автоматические программы приготовления: Да;
+    Режимы тепловой обработки: Авторазмораживание, Быстрый старт, Разогрев, Рецепты русской кухни;
+    Режим удаления запахов: Да;
+    Мощность микроволнового излучателя: 800  Вт
+    Управление: электронное;
+    Срок гарантии: 1 год; 
+       </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Микроволновая_печь_Samsung_MS23F302TQS-BW.jpg</image>
+</product>
+
+<product type="микроволновые печи">
+    <name>Микроволновая печь Hyundai HYM-M2008 </name>
+    <price>215 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 15 кг</weight>
+        <width><span class="product__span"></span> 50 см</width>
+        <length><span class="product__span"></span> 40 см</length>
+        <height><span class="product__span"></span> 30 см</height>
+        <power><span class="product__span"></span> 1150 Вт</power>
+        <color><span class="product__span"></span> черный</color>
+        <grill><span class="product__span"></span> Нет</grill>
+    </basicSpecs>
+    <fullSpecs>
+    Объем микроволновой печи: 20л;
+    Внутреннее покрытие стенок: Эмаль;
+    Количество уровней мощности: 5;
+    Мощность микроволнового излучателя: 700  Вт;
+    Инверторное управление мощностью: Нет;
+    Управление: механическое;
+    Срок гарантии: 2 года;    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Микроволновая_печь_Hyundai_HYM-M2008 .jpg</image>
+</product>
+    <product type="пылесосы">
+    <name>Пылесос SAMSUNG VCC8835V37/XEV</name>
+    <price>450 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 6 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Стандартный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер </dustCollectorType>
+        <power><span class="product__span"></span> 2200 Вт</power>
+        <color><span class="product__span"></span> серебристый</color>
+        <dustCollectorCapacity><span class="product__span"></span> 2л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs>Тип трубы всасывания: 
+	Телескопическая;
+Материал трубы всасывания: 
+	Сталь;
+    Регулятор мощности: 
+	На корпусе;
+Фильтр тонкой очистки: 
+	Да;
+Тип фильтра: 
+	HEPA;
+Предмоторный фильтр: 
+	Да;
+Выходной фильтр: 
+	Да;
+    Длина сетевого шнура: 
+	7  м;
+    Уровень шума: 
+	80  дБ;
+    Функция сбора жидкости: 
+	Нет;
+Индикатор заполнения пылесборника: 
+	Да;
+Индикатор уровня воды: 
+	Нет;
+    Срок гарантии: 2 года;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Пылесос_SAMSUNG_VCC8835V37-XEV.jpg</image>
+</product>
+  <product type="пылесосы">
+    <name>Пылесос SAMSUNG VC20M251AWB/EV</name>
+    <price>350 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 4 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Стандартный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер/Мешок </dustCollectorType>
+        <power><span class="product__span"></span> 2000 Вт</power>
+        <color><span class="product__span"></span> синий, черный</color>
+        <dustCollectorCapacity><span class="product__span"></span> 2,5 л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs> Дополнительно: 
+	Фильтр EZClean приобретается отдельно;
+    Тип трубы всасывания: 
+	Телескопическая;
+Материал трубы всасывания: 
+	Металл;
+    Регулятор мощности: 
+	На корпусе;
+Фильтр тонкой очистки: 
+	Да;
+Тип фильтра: 
+	HEPA;
+    Длина сетевого шнура: 
+	6  м;
+    Тип питания:
+	Сеть;
+Мощность всасывания: 
+	460  Вт;
+    Уровень шума: 
+	83  дБ;
+    Срок гарантии: 2 года;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/SAMSUNG_VC20M251AWB-EV.jpg</image>
+</product>
+  <product type="пылесосы">
+    <name>Пылесос Polaris PVC 2016</name>
+    <price>450 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 5,74 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Стандартный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер </dustCollectorType>
+        <power><span class="product__span"></span> 2000 Вт</power>
+        <color><span class="product__span"></span> белый</color>
+        <dustCollectorCapacity><span class="product__span"></span> 2,5л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs>Тип трубы всасывания:
+	Телескопическая;
+Материал трубы всасывания: 
+	Металл;
+    Регулятор мощности: 
+	На корпусе;
+Фильтр тонкой очистки: 
+	Да;
+Тип фильтра: 
+	HEPA;
+Выходной фильтр: 
+	Да;
+Длина сетевого шнура: 
+	5  м;
+     Насадки в комплекте: 
+	Щелевая насадка, Щетка для ковра и пола, Щетка для мебели, Щетка с ворсом;
+Турбощетка в комплекте: 
+	Нет;
+Отсек для хранения насадок: 
+	На защелке трубки;
+    Функция сбора жидкости: 
+	Нет;
+Индикатор заполнения пылесборника:
+	Нет;
+Индикатор уровня воды: 
+	Нет;
+Звуковой сигнал: 
+	Нет;
+    Срок гарантии: 1 год;</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Пылесос_Polaris_PVC_2016.jpg</image>
+</product>
+  <product type="пылесосы">
+    <name>Пылесос SAMSUNG VC18M2150SG/EV</name>
+    <price>370 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 4,6 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Стандартный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер </dustCollectorType>
+        <power><span class="product__span"></span>1800 Вт</power>
+        <color><span class="product__span"></span> Черный</color>
+        <dustCollectorCapacity><span class="product__span"></span> 1,5л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs>
+    Тип трубы всасывания: 
+	Телескопическая;
+Материал трубы всасывания: 
+	Металл;
+    Регулятор мощности: 
+	Нет;
+Фильтр тонкой очистки: 
+	Да;
+Предмоторный фильтр: 
+	Да;
+Радиус действия: 
+	9  м;
+Длина сетевого шнура: 
+	6  м;
+    Мощность всасывания: 
+	380  Вт;
+Уровень шума: 
+	87  дБ;
+     Насадки в комплекте: 
+	Турбощетка, Щелевая насадка, Щетка для ковра и пола, Щетка для мебели;
+Турбощетка в комплекте: 
+	Да;
+    Функция сбора жидкости: 
+	Нет;
+Индикатор заполнения пылесборника: 
+	Нет;
+Звуковой сигнал: 
+	Нет;
+    Срок гарантии: 2 года;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Пылесос_SAMSUNG_VC18M2150SG-EV.jpg</image>
+</product>
+  <product type="пылесосы">
+    <name>Пылесос POLARIS PVCS 4090 Space Sense </name>
+    <price>750 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 4,04 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Вертикальный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер </dustCollectorType>
+        <power><span class="product__span"></span> 220 Вт</power>
+        <color><span class="product__span"></span> синий</color>
+        <dustCollectorCapacity><span class="product__span"></span> 0.3л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs>Тип питания: 
+	Аккумулятор;
+    Мощность всасывания: 
+	80  Вт;
+Максимальное время работы от аккумулятора: 
+	45  мин;
+Уровень шума: 
+	68  дБ;
+     Насадки в комплекте: 
+	Щелевая насадка, Щетка для мебели, Щетка для твердых покрытий, Щетка с ворсом;
+Турбощетка в комплекте: 
+	Да;
+    Функция сбора жидкости: 
+	Нет;
+Индикатор заполнения пылесборника: 
+	Нет;
+Индикатор уровня воды: 
+	Нет;
+Звуковой сигнал: 
+	Нет;
+Автоотключение при заполнении пылесборника: 
+	Нет;
+Подключение к электроинструменту: 
+	Нет;
+    Срок гарантии: 2 года;
+    </fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Пылесос_POLARIS_PVCS_4090_Space_Sense.jpg</image>
+</product>
+  <product type="пылесосы">
+    <name>Пылесос Polaris PVC 2003RI</name>
+    <price>450 бел.руб</price>
+    <basicSpecs>
+        <weight><span class="product__span"></span> 6,24 кг</weight>
+        <vacuumCleanerType ><span class="product__span"></span> Стандартный</vacuumCleanerType>
+        <cleaningType ><span class="product__span"></span> Сухая </cleaningType>
+        <dustCollectorType><span class="product__span"></span> Контейнер </dustCollectorType>
+        <power><span class="product__span"></span> 2000 Вт</power>
+        <color><span class="product__span"></span> черный, красный</color>
+        <dustCollectorCapacity><span class="product__span"></span> 2,5 л</dustCollectorCapacity>
+    </basicSpecs>
+    <fullSpecs>
+     Дополнительно: 
+	Ионизация;
+    Тип трубы всасывания: 
+	Телескопическая;
+Материал трубы всасывания: 
+	Металл;
+    Фильтр тонкой очистки: 
+	Да;
+Тип фильтра: 
+	HEPA;
+Выходной фильтр: 
+	Да;
+Длина сетевого шнура: 
+	5  м;
+    Тип питания: 
+	Сеть;
+    Мощность всасывания: 
+	500  Вт;
+     Насадки в комплекте: 
+	Щелевая насадка, Щетка для ковра и пола, Щетка с ворсом;
+Турбощетка в комплекте: 
+	Нет;
+Отсек для хранения насадок: 
+	Нет;
+    Функция сбора жидкости: 
+	Нет;
+Индикатор заполнения пылесборника: 
+	Нет;
+Индикатор уровня воды: 
+	Нет;
+Звуковой сигнал: 
+	Нет;
+Автоотключение при заполнении пылесборника: 
+	Нет;
+Подключение к электроинструменту: 
+	Нет;
+    Срок гарантии: 3 года;</fullSpecs>
+    <availability>Наличие товара: В наличии</availability>
+    <image>img/Пылесос_Polaris_PVC_2003RI.jpg</image>
+</product>
+ <product type="кофемашины">
+        <name>Кофемашина Polaris PACM 2055AC </name>
+        <price>1780 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 10 кг</weight>
+            <width><span class="product__span"></span> 24 см</width>
+            <length><span class="product__span"></span> 46 см</length>
+            <height><span class="product__span"></span> 34 см</height>
+            <color><span class="product__span"></span> серебристый</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> В зернах, Молотый</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1450 Вт</power>
+        </basicSpecs>
+        <fullSpecs> Тип кофемашины: 
+	Автоматическая;
+Возможность встраивания: 
+	Нет;
+     Приготовление эспрессо: 
+	Автоматическое;
+    Давление: 
+	20  бар;
+     Дополнительно: 
+	Объем резервуара для воды 1.8 литра;
+     Манометр: 
+	Нет;
+Двойной бойлер: 
+	Нет;
+Встроенная кофемолка: 
+	Да;
+Регулировка степени помола: 
+	Да;
+Емкость контейнера для зерен: 
+	250  г;
+    Выбор крепости кофе: 
+	Да;
+Предварительное смачивание: 
+	Нет;
+Регулировка подачи пара: 
+	Нет;
+Настройка температуры напитка: 
+	Да;
+    Срок гарантии: 3 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кофемашина_Polaris_PACM_2055AC.jpg</image>
+    </product>
+    <product type="кофемашины">
+        <name>Кофемашина Bork C801</name>
+        <price>2100 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 11 кг</weight>
+            <width><span class="product__span"></span> 30 см</width>
+            <length><span class="product__span"></span> 40 см</length>
+            <height><span class="product__span"></span> 35 см</height>
+            <color><span class="product__span"></span> серебристый</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> В зернах, Молотый</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1500 Вт</power>
+        </basicSpecs>
+        <fullSpecs>Тип кофемашины: 
+        Автоматическая;
+        Возможность встраивания: 
+        Да;
+        Приготовление эспрессо: 
+        Автоматическое;
+        Давление: 
+        19 бар;
+        Дополнительно: 
+        Объем резервуара для воды 2.0 литра;
+        Манометр: 
+        Да;
+        Двойной бойлер: 
+        Да;
+        Встроенная кофемолка: 
+        Да;
+        Регулировка степени помола: 
+        Да;
+        Емкость контейнера для зерен: 
+        200 г;
+        Выбор крепости кофе: 
+        Да;
+        Предварительное смачивание: 
+        Да;
+        Регулировка подачи пара: 
+        Да;
+        Настройка температуры напитка: 
+        Да;
+        Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кофеварка_рожкового_типа_Bork_C801.jpg</image>
+    </product>
+     <product type="кофемашины">
+        <name>Кофемашина DeLonghi ECAM 22.110.SB Magnifica S</name>
+        <price>1899 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 9 кг</weight>
+            <width><span class="product__span"></span> 23.8 см</width>
+            <length><span class="product__span"></span> 43 см</length>
+            <height><span class="product__span"></span> 35.1 см</height>
+            <color><span class="product__span"></span> черный</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> В зернах, Молотый</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1450 Вт</power>
+        </basicSpecs>
+        <fullSpecs> Тип кофемашины: 
+	Автоматическая;
+Возможность встраивания: 
+	Нет;
+     Приготовление эспрессо: 
+	Автоматическое;
+    Давление: 
+	15  бар;
+     Дополнительно: 
+	Объем резервуара для воды 1.8 литра;
+     Манометр: 
+	Да;
+Двойной бойлер: 
+	Нет;
+Встроенная кофемолка: 
+	Да;
+Регулировка степени помола: 
+	Да;
+Емкость контейнера для зерен: 
+	250  г;
+    Выбор крепости кофе: 
+	Да;
+Предварительное смачивание: 
+	Да;
+Регулировка подачи пара: 
+	Нет;
+Настройка температуры напитка: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кофемашина_DeLonghi_Magnifica_Start_ECAM_22021B.jpg</image>
+    </product>
+
+    <product type="кофемашины">
+        <name>Кофемашина Krups EA8108</name>
+        <price>1600 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 7.2 кг</weight>
+            <width><span class="product__span"></span> 23.8 см</width>
+            <length><span class="product__span"></span> 36 см</length>
+            <height><span class="product__span"></span> 35.1 см</height>
+            <color><span class="product__span"></span> черный</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> В зернах, Молотый</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1450 Вт</power>
+        </basicSpecs>
+        <fullSpecs> Тип кофемашины: 
+	Автоматическая;
+Возможность встраивания: 
+	Нет;
+     Приготовление эспрессо: 
+	Автоматическое;
+    Давление: 
+	15  бар;
+     Дополнительно: 
+	Объем резервуара для воды 1.7 литра;
+     Манометр: 
+	Нет;
+Двойной бойлер: 
+	Нет;
+Встроенная кофемолка: 
+	Да;
+Регулировка степени помола: 
+	Да;
+Емкость контейнера для зерен: 
+	250  г;
+    Выбор крепости кофе: 
+	Да;
+Предварительное смачивание: 
+	Нет;
+Регулировка подачи пара: 
+	Нет;
+Настройка температуры напитка: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кофемашина_KRUPS_ESSENTIAL_EA810870.jpg</image>
+    </product>
+
+    <product type="кофемашины">
+        <name>Кофемашина Bosch CTL636ES1</name>
+        <price>8000 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 10 кг</weight>
+            <width><span class="product__span"></span> 28 см</width>
+            <length><span class="product__span"></span> 37 см</length>
+            <height><span class="product__span"></span> 37 см</height>
+            <color><span class="product__span"></span> серебристый</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> В зернах, Молотый</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1600 Вт</power>
+        </basicSpecs>
+        <fullSpecs> Тип кофемашины: 
+	Автоматическая;
+Возможность встраивания: 
+	Да;
+     Приготовление эспрессо: 
+	Автоматическое;
+    Давление: 
+	19  бар;
+     Дополнительно: 
+	Объем резервуара для воды 2.3 литра;
+     Манометр: 
+	Да;
+Двойной бойлер: 
+	Да;
+Встроенная кофемолка: 
+	Да;
+Регулировка степени помола: 
+	Да;
+Емкость контейнера для зерен: 
+	300  г;
+    Выбор крепости кофе: 
+	Да;
+Предварительное смачивание: 
+	Да;
+Регулировка подачи пара: 
+	Да;
+Настройка температуры напитка: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Эспрессо_кофемашина_Bosch_CTL636ES1.jpeg</image>
+    </product>
+
+    <product type="кофемашины">
+        <name>Кофемашина Gaggia Magenta Milk 8701/01</name>
+        <price>2250 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 7,7 кг</weight>
+            <width><span class="product__span"></span> 22,4 см</width>
+            <length><span class="product__span"></span> 28 см</length>
+            <height><span class="product__span"></span> 35,7 см</height>
+            <color><span class="product__span"></span> черный</color>
+            <TypeOfCoffeeUsed><span class="product__span"></span> молотый, зерновой</TypeOfCoffeeUsed>
+            <power><span class="product__span"></span> 1900 Вт</power>
+        </basicSpecs>
+        <fullSpecs> 
+Давление:
+15 бар;
+
+Два бойлера:
+Нет;
+Емкость для воды:
+1.8 л;
+Емкость для молока:
+Да;
+Тип емкости для молока:
+внешняя;
+Отсек для кофе:
+250 г;
+Отсек для отходов:
+15 порций;
+Максимальная высота чашки:
+150 мм ;
+
+Управление:
+сенсорное;
+Индикация:
+ЖК-экран, цветной;
+Удаленное управление:
+Нет;
+
+Регулировка температуры:
+Да;
+Регулировка объема порции:
+Да;
+Капучинатор:
+Да автоматический;
+Регулировка молочной пены:
+Да;
+Капучино/латте в одно касание:
+Да;
+
+Подача горячей воды:
+Да;
+Регулировка высоты чашек:
+Да;
+Автоматическая чистка от накипи:
+Да;
+
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/101.jpeg</image>
+    </product>
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Bosch SMS46KI03E</name>
+        <price>2899 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 39 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 60 см</length>
+            <height><span class="product__span"></span> 84.5 см</height>
+            <color><span class="product__span"></span> нержавеющая сталь</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 13</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A++</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Встраиваемая;
+Материал корпуса: 
+	Нержавеющая сталь;
+     Уровень шума: 
+	44  дБ;
+    Тип управления: 
+	Электронное;
+     Защита от протечек: 
+	Да;
+Дисплей: 
+	Да;
+     Дополнительно: 
+	Система сушки засушивания;
+    Защита от детей: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/посудомоечная_машина_Bosch_SMV4HVX32E.jpg</image>
+    </product>
+
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Electrolux ESL5205LO</name>
+        <price>2349 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 34 кг</weight>
+            <width><span class="product__span"></span> 59.6 см</width>
+            <length><span class="product__span"></span> 59.6 см</length>
+            <height><span class="product__span"></span> 81.8 см</height>
+            <color><span class="product__span"></span> белый</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 13</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A+</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Встраиваемая;
+Материал корпуса: 
+	Пластик;
+     Уровень шума: 
+	50  дБ;
+    Тип управления: 
+	Электронное;
+     Защита от протечек: 
+	Да;
+Дисплей: 
+	Нет;
+     Дополнительно: 
+	Система сушки конденсационная;
+    Защита от детей: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Посудомоечная_машина_Electrolux_ESL_5205_LO.jpeg</image>
+    </product>
+
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Whirlpool WFC 3C24 P X</name>
+        <price>2149 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 34.5 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 60 см</length>
+            <height><span class="product__span"></span> 85 см</height>
+            <color><span class="product__span"></span> нержавеющая сталь</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 14</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A++</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Встраиваемая;
+Материал корпуса: 
+	Нержавеющая сталь;
+     Уровень шума: 
+	43  дБ;
+    Тип управления: 
+	Электронное;
+     Защита от протечек: 
+	Да;
+Дисплей: 
+	Да;
+     Дополнительно: 
+	Система сушки конденсационная;
+    Защита от детей: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Whirlpool_WFC3C24PX.jpg</image>
+    </product>
+
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Siemens SN23HI30RU</name>
+        <price>2149 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 44 кг</weight>
+            <width><span class="product__span"></span> 60 см</width>
+            <length><span class="product__span"></span> 60 см</length>
+            <height><span class="product__span"></span> 81.5 см</height>
+            <color><span class="product__span"></span> нержавеющая сталь</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 13</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A++</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Встраиваемая;
+Материал корпуса: 
+	Нержавеющая сталь;
+     Уровень шума: 
+	44  дБ;
+    Тип управления: 
+	Электронное;
+     Защита от протечек: 
+	Да;
+Дисплей: 
+	Да;
+     Дополнительно: 
+	Система сушки засушивания;
+    Защита от детей: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Встраиваемая_посудомоечная_машина_Siemens_SN63HX61CE.jpg</image>
+    </product>
+
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Weissgauff DW 6035</name>
+        <price>1250 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 44 кг</weight>
+            <width><span class="product__span"></span> 59.8  см</width>
+            <length><span class="product__span"></span> 60 см</length>
+            <height><span class="product__span"></span> 84,5 см</height>
+            <color><span class="product__span"></span> белый</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 13</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A+</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Полноразмерная;
+Тип сушки: 
+	Конденсационная;
+Вместимость: 
+	14  комплектов;
+Расход воды за цикл мойки: 
+	11  л;
+Наличие третьего короба: 
+	Да;
+Возможность подключения к горячей воде: 
+	Нет;
+Возможность использования средств 3 в 1: 
+	Да;
+Защита от протечек: 
+	Да;
+Блокировка от детей: 
+	Нет;
+Уровень шума: 
+	49  дБ;
+     Автоматические программы: 
+	Да;
+Количество программ мойки: 
+	6;
+Программы (режимы) мойки: 
+	90 минут, Быстрая мойка, Интенсивная мойка, Нормальная, Стекло, Эко;
+    Класс энергопотребления: 
+	A++;
+Потребляемая мощность за цикл мойки: 
+	0.93  кВтч;
+    Управление: 
+	Электронное;
+    Срок гарантии: 1 год;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Посудомоечная_машина_Weissgauff_DW_6035.jpg</image>
+    </product>
+
+    <product type="посудомоечные машины">
+        <name>Посудомоечная машина Beko DIN15320</name>
+        <price>1849 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span> 32 кг</weight>
+            <width><span class="product__span"></span> 59.8 см</width>
+            <length><span class="product__span"></span> 60 см</length>
+            <height><span class="product__span"></span> 81.8 см</height>
+            <color><span class="product__span"></span> белый</color>
+            <numberOfPlaceSettings><span class="product__span"></span> 13</numberOfPlaceSettings>
+            <energyEfficiencyClass><span class="product__span"></span> A+</energyEfficiencyClass>
+        </basicSpecs>
+        <fullSpecs> Тип посудомоечной машины: 
+	Встраиваемая;
+Материал корпуса: 
+	Пластик;
+     Уровень шума: 
+	48  дБ;
+    Тип управления: 
+	Электронное;
+     Защита от протечек: 
+	Да;
+Дисплей: 
+	Нет;
+     Дополнительно: 
+	Система сушки конденсационная;
+    Защита от детей: 
+	Да;
+    Срок гарантии: 2 года;</fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/BDIN15320.png</image>
+    </product>
+      <product type="кухонные вытяжки">
+        <name>Вытяжка MAUNFELD Crosby Singl 60 </name>
+        <price>370 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>5,2 кг</weight>
+            <width><span class="product__span"></span>59,8 см</width>
+            <length><span class="product__span"></span>29 см</length>
+            <height><span class="product__span"></span>16,7 см</height>
+            <color><span class="product__span"></span>черный</color>
+            <power><span class="product__span"></span>115 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+            Тип: 
+	Скрытая;
+Монтаж: 
+	Для встраивания;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт;
+     Производительность: 
+	850  м3/час;
+Уровень шума: 
+	48  дБ;
+    Управление: 
+	Механическое (кнопочное);
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+     Диаметр воздуховода: 
+	120  мм;
+    Срок гарантии: 3 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/MAUNFELD_Crosby_Singl_60.jpg</image>
+    </product>
+     <product type="кухонные вытяжки">
+        <name>Вытяжка WEISSGAUFF GAMMA 60 PBBLLED </name>
+        <price>369,99 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>6,5 кг</weight>
+            <width><span class="product__span"></span>60 см</width>
+            <length><span class="product__span"></span>29,5 см</length>
+            <height><span class="product__span"></span>30 см</height>
+            <color><span class="product__span"></span>черный</color>
+            <power><span class="product__span"></span>85 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+         Тип: 
+	Наклонная;
+Монтаж: 
+	Настенный;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт;
+Производительность: 
+	900  м3/час;
+Уровень шума: 
+	46  дБ;
+    Управление: 
+	Механическое (кнопочное);
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+ Общая мощность ламп: 
+	6  Вт;
+Жироулавливающий фильтр: 
+	1 шт;
+    Срок гарантии: 2 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Вытяжка_WEISSGAUFF_GAMMA_60_PB_BL_LED.jpg</image>
+    </product>
+     <product type="кухонные вытяжки">
+        <name>Вытяжка Hansa OTP6221IH </name>
+        <price>230 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>6 кг</weight>
+            <width><span class="product__span"></span>60 см</width>
+            <length><span class="product__span"></span>30 см</length>
+            <height><span class="product__span"></span>17,6 см</height>
+            <color><span class="product__span"></span>нержавеющая сталь</color>
+            <power><span class="product__span"></span>120 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+       Тип:
+	Телескопическая;
+Монтаж: 
+	Для встраивания;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт;
+     Производительность: 
+	270  м3/час;
+Уровень шума:
+	56  дБ;
+    Управление: 
+	Механическое;
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+     Количество ламп: 
+	2;
+Общая мощность ламп: 
+	40  Вт;
+Жироулавливающий фильтр: 
+	2 шт;
+    Диаметр воздуховода: 
+	120  мм;
+    Срок гарантии: 2 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кухонная_вытяжка_Hansa_OTP6221IH.jpg</image>
+    </product>
+    <product type="кухонные вытяжки">
+        <name>Вытяжка ZorG Technology BONA 1000 52 M WH  </name>
+        <price>350 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>6 кг</weight>
+            <width><span class="product__span"></span>51.8  см</width>
+            <length><span class="product__span"></span>28.8 см</length>
+            <height><span class="product__span"></span>25 см</height>
+            <color><span class="product__span"></span>белый</color>
+            <power><span class="product__span"></span>230 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+      Тип: 
+	Скрытая;
+Монтаж: 
+	Для встраивания;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт ;
+     Производительность: 
+	1000  м3/час;
+Уровень шума: 
+	42  дБ;
+    Управление: 
+	Механическое;
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+Тип освещения: 
+	Светодиодное;
+     Диаметр воздуховода: 
+	150  мм; 
+    Срок гарантии: 5 лет;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Вытяжка_кухонная_ZorG_Technology_BONA_1000_52_M_WH.jpg</image>
+    </product>
+    <product type="кухонные вытяжки">
+        <name>Вытяжка MAUNFELD Crosby Hardy 60  </name>
+        <price>560 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>7,1 кг</weight>
+            <width><span class="product__span"></span>59.8 см</width>
+            <length><span class="product__span"></span>29 см</length>
+            <height><span class="product__span"></span>18.3  см</height>
+            <color><span class="product__span"></span>черный</color>
+            <power><span class="product__span"></span>115 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+       Тип: 
+	Скрытая;
+Монтаж:
+	Для встраивания;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт;
+     Производительность: 
+	1000  м3/час;
+Уровень шума: 
+	51.5  дБ;
+    Управление: 
+	Механическое;
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+Тип освещения: 
+	Светодиодное;
+Количество ламп: 
+	2;
+Общая мощность ламп: 
+	6  Вт;
+Жироулавливающий фильтр: 
+	Алюминиевый;
+Угольный фильтр: 
+	Опция;
+Диаметр воздуховода: 
+	150  мм;
+    Срок гарантии: 3 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Вытяжка_MAUNFELD_Crosby_Hardy_60.jpg</image>
+    </product>
+    <product type="кухонные вытяжки">
+        <name>Вытяжка Weissgauff Yota 606 Touch Black Glass </name>
+        <price>299,99 бел.руб</price>
+        <basicSpecs>
+            <weight><span class="product__span"></span>8 кг</weight>
+            <width><span class="product__span"></span>59.5 см</width>
+            <length><span class="product__span"></span>35.9 см</length>
+            <height><span class="product__span"></span>30 см</height>
+            <color><span class="product__span"></span>черный</color>
+            <power><span class="product__span"></span>100 Вт</power>
+        </basicSpecs>
+        <fullSpecs>
+    Тип: 
+	Наклонная;
+Монтаж: 
+	Настенный;
+Режимы работы: 
+	Отвод, Рециркуляция;
+Количество моторов: 
+	1  шт;
+     Производительность: 
+	600  м3/час;
+Уровень шума:
+	58  дБ;
+    Управление: 
+	Сенсорное;
+Количество скоростей: 
+	3;
+Индикация загрязнения фильтра: 
+	Нет;
+Тип освещения: 
+	Светодиодное;
+Количество ламп: 
+	2;
+Жироулавливающий фильтр: 
+	Алюминиевый;
+Угольный фильтр: 
+	Опция;
+Диаметр воздуховода: 
+	120  мм;
+    Срок гарантии: 2 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Кухонная_вытяжка_Weissgauff_Yota_606_Touch_Black_Glass.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Ванна акриловая Ventospa Serena LA 150x70 </name>
+        <price>299,99 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>144 л</literage>
+            <width><span class="product__span"></span>70 см</width>
+            <length><span class="product__span"></span>150 см</length>
+            <height><span class="product__span"></span>41,5 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>акриловая</type>
+        </basicSpecs>
+        <fullSpecs>
+   Размещение: встраиваемая;
+Форма: прямоугольная;
+Модификация: универсальная;
+Толщина стенок: 4 мм;
+Коллекция: Serena ;
+ Кол-во мест: 1-местная;
+Гидромассаж: нет;
+Аэромассаж: нет;
+Диаметр слива: 5.2 см;
+Расположение сливного отверстия: боковое;
+ Ножки в комплекте: нет;
+Каркас в комплекте: нет;
+Сифон (слив-перелив) в комплекте: нет;
+    Срок гарантии: 3 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Ванна_акриловая_VentoSpa_SERENA_LA_150x70.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Ванна акриловая Alba Spa Baline 170x70 </name>
+        <price>690 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>190 л</literage>
+            <width><span class="product__span"></span>70 см</width>
+            <length><span class="product__span"></span>170 см</length>
+            <height><span class="product__span"></span>44 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>акриловая</type>
+        </basicSpecs>
+        <fullSpecs>
+   Размещение: встраиваемая;
+Форма: прямоугольная;
+Модификация: универсальная;
+Толщина стенок: 4 мм;
+Коллекция: Serena ;
+ Кол-во мест: 1-местная;
+Гидромассаж: нет;
+Аэромассаж: нет;
+Диаметр слива: 5.2 см;
+Расположение сливного отверстия: боковое;
+ Ножки в комплекте: нет;
+Каркас в комплекте: нет;
+Сифон (слив-перелив) в комплекте: нет;
+    Срок гарантии: 3 года;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Акриловая_ванна_Alba_Spa_Baline_170x70.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Ванна акриловая Santek Эдера 170x110 R </name>
+        <price>1120 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>300 л</literage>
+            <width><span class="product__span"></span>110 см</width>
+            <length><span class="product__span"></span>170 см</length>
+            <height><span class="product__span"></span>62 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>акриловая</type>
+        </basicSpecs>
+        <fullSpecs>
+  Форма:	асимметричная;
+  Размещение:	угловая, встраиваемая;
+  Толщина стенок, мм:	5.0;
+  Покрытие дна:	гладкое
+Количество мест:	одноместная
+Ориентация:	правая;
+Сифон:	нет;
+Ножки:	нет;
+Каркас:	нет;
+Экран:	нет;
+Ручки:	нет;
+Подголовник:	нет;
+Подлокотники:	нет;
+Сидение:	есть;
+Смеситель:	нет;
+Гидромассаж:	нет;
+Аэромассаж:	нет;
+    Срок гарантии: 10 лет;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/акриловая_Santek_Эдера_170x110_.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Чугунная ванна Универсал Оптима 150x70 </name>
+        <price>950 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>135 л</literage>
+            <width><span class="product__span"></span>70 см</width>
+            <length><span class="product__span"></span>150 см</length>
+            <height><span class="product__span"></span>37 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>чугунная</type>
+        </basicSpecs>
+        <fullSpecs>
+  Форма:	прямоугольная;
+  Размещение:	встраиваемая;
+  Толщина стенок:	7.0 мм;
+  Покрытие дна:	гладкое;
+Количество мест:	одноместная;
+Ориентация:	универсальная;
+Сифон:	нет;
+Ножки:	нет;
+Каркас:	нет;
+Экран:	нет;
+Ручки:	нет;
+Подголовник:	нет;
+Подлокотники:	нет;
+Сидение:	нет;
+Смеситель:	нет;
+Гидромассаж:	нет;
+Аэромассаж:	нет;
+Коллекция:	Оптима;
+    Срок гарантии: 5 лет;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Чугунная_ванна_Универсал_Оптима_150x70.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Акриловая ванна Lavinia Boho One 180x80 </name>
+        <price>1200 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>210 л</literage>
+            <width><span class="product__span"></span>80 см</width>
+            <length><span class="product__span"></span>180 см</length>
+            <height><span class="product__span"></span>40 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>акриловая</type>
+        </basicSpecs>
+        <fullSpecs>
+  Форма:	прямоугольная;
+  Размещение:	встраиваемая;
+  Толщина стенок:	6.0 мм;
+  Покрытие дна:	гладкое;
+Количество мест:	одноместная;
+Ориентация:	универсальная;
+Сифон:	нет;
+Ножки:	нет;
+Каркас:	нет;
+Экран:	нет;
+Ручки:	нет;
+Подголовник:	нет;
+Подлокотники:	нет;
+Сидение:	нет;
+Смеситель:	нет;
+Гидромассаж:	нет;
+Аэромассаж:	нет;
+    Срок гарантии: 20 лет;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Акриловая_ванна_Lavinia_One_180x80.jpg</image>
+    </product>
+    <product type="ванны">
+        <name>Чугунная ванна Универсал Сибирячка 150x75 </name>
+        <price>299,99 бел.руб</price>
+        <basicSpecs>
+            <literage><span class="product__span"></span>195 л</literage>
+            <width><span class="product__span"></span>75 см</width>
+            <length><span class="product__span"></span>150 см</length>
+            <height><span class="product__span"></span>42 см</height>
+            <color><span class="product__span"></span>белый </color>
+            <type><span class="product__span"></span>чугунная</type>
+        </basicSpecs>
+        <fullSpecs>
+   Размещение: встраиваемая;
+Форма: прямоугольная;
+Покрытие дна:	гладкое;
+Количество мест:	одноместная;
+Ориентация:	универсальная;
+Сифон:	нет;
+Ножки:	нет;
+Каркас:	нет;
+Экран:	нет;
+Ручки:	нет;
+Подголовник:	нет;
+Подлокотники:	нет;
+Сидение:	нет;
+Смеситель:	нет;
+Гидромассаж:	нет;
+Аэромассаж:	нет;
+    Срок гарантии: 5 лет;
+        </fullSpecs>
+        <availability>Наличие товара: В наличии</availability>
+        <image>img/Чугунная_ванна_Универсал_Сибирячка_150x75.jpg</image>
+    </product>
+</products>
