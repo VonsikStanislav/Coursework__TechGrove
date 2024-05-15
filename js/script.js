@@ -1,7 +1,6 @@
 // JavaScript
 const goTopBtn = document.querySelector(".go--top");
 
-// Показываем или скрываем кнопку при скролле
 window.addEventListener("scroll", function() {
     if (window.pageYOffset > 250) {
         goTopBtn.style.display = "block";
@@ -10,27 +9,22 @@ window.addEventListener("scroll", function() {
     }
 });
 
-// Плавная прокрутка вверх при нажатии на кнопку
 goTopBtn.addEventListener("click", function() {
     window.scrollTo({
         top: 0,
         behavior: "smooth"
     });
 });
-// Создаем массив с названиями регионов
 var regions = ["Минск", "Брест", "Гродно", "Витебск", "Могилев", "Гомель"];
 
-// Получаем кнопку и элемент для отображения выбранного региона
 var button = document.querySelector(".content__menu__location__button");
 var title = document.querySelector(".content__menu__location__title");
 
-// Устанавливаем сохраненный регион при загрузке страницы
 var savedRegion = localStorage.getItem('selectedRegion');
 if (savedRegion) {
   title.textContent = savedRegion;
 }
 
-// Создаем выпадающее меню с регионами
 var dropdown = document.createElement("div");
 dropdown.className = 'content__menu__location__dropdown';
 dropdown.style.zIndex = '1';
@@ -43,14 +37,12 @@ for (let i = 0; i < regions.length; i++) {
     this.style.backgroundColor = "#ffc465"; 
   };
   region.onmouseout = function() {
-    this.style.backgroundColor = "transparent"; // Возвращаем прозрачный фон при убирании курсора
+    this.style.backgroundColor = "transparent"; 
   };
   region.onclick = function() {
     title.textContent = this.textContent;
     dropdown.style.display = "none";
-    // Сохраняем выбранный регион
     localStorage.setItem('selectedRegion', this.textContent);
-    // Возвращаем изображение в исходное положение
     buttonImage.style.transform = "rotate(0deg)";
   };
   dropdown.appendChild(region);
@@ -58,31 +50,25 @@ for (let i = 0; i < regions.length; i++) {
 
 document.body.appendChild(dropdown);
 
-// Получаем изображение внутри кнопки
 var buttonImage = document.querySelector(".content__menu__location__button img");
 
-// Показываем или скрываем выпадающее меню при клике на кнопку
 button.onclick = function(e) {
   if (dropdown.style.display === "none") {
     dropdown.style.display = "block";
-    var buttonLeft = button.offsetLeft; // Получаем смещение кнопки относительно левого края
-    var buttonWidth = button.offsetWidth; // Получаем ширину кнопки
+    var buttonLeft = button.offsetLeft; 
+    var buttonWidth = button.offsetWidth; 
     dropdown.style.top = (button.offsetTop + button.offsetHeight - 50.5) + "%";
-    dropdown.style.left = (buttonLeft - dropdown.offsetWidth + buttonWidth + 56) + "%"; // Смещаем влево на ширину выпадающего меню
-    // Поворачиваем изображение на 90 градусов
+    dropdown.style.left = (buttonLeft - dropdown.offsetWidth + buttonWidth + 56) + "%"; 
     buttonImage.style.transform = "rotate(90deg)";
   } else {
     dropdown.style.display = "none";
-    // Возвращаем изображение в исходное положение
     buttonImage.style.transform = "rotate(0deg)";
   }
 };
 
-// Получаем изображение внутри кнопки
 var buttonImage = document.querySelector(".content__menu__location__button img");
 
-// Устанавливаем z-index для изображения больше, чем у выпадающего окна
-buttonImage.style.position = 'relative'; // z-index работает только для элементов с ненулевым значением свойства position
+buttonImage.style.position = 'relative'; 
 
 document.addEventListener("DOMContentLoaded", function() {
   $('.multiple-items').slick({
@@ -152,11 +138,9 @@ document.addEventListener("DOMContentLoaded", function() {
           catalogDiv.innerHTML += productBlock;
       }
   
-      // Добавляем обработчик событий для кнопок "В корзину"
       const buyButtons = document.querySelectorAll('.catalog__buy--button');
       buyButtons.forEach(button => {
           button.addEventListener('click', () => {
-              // Здесь можно добавить логику для обработки нажатия на кнопку "В корзину"
           });
       });
   })
@@ -170,10 +154,9 @@ function searchButtonClick() {
 
 
 
-// Функция поиска
 function search() {
   const searchText = document.getElementById("searchInput").value.trim().toLowerCase();
-  if (searchText === "") return; // Проверка: если поле ввода пусто, прекратить выполнение функции
+  if (searchText === "") return; 
 
   const searchResults = [];
 
@@ -191,23 +174,21 @@ function search() {
           }
 
           displaySearchResults(searchResults);
-          hideSlider(searchResults.length > 0); // Скрыть слайдер, если есть результаты поиска
+          hideSlider(searchResults.length > 0); 
       }
   };
   xhttp.open("GET", "xml/catalog.xml", true);
   xhttp.send();
 }
 
-// Функция, вызываемая при нажатии на кнопку "Очистить"
 function clearSearch() {
-  document.getElementById("searchInput").value = ""; // Очистить поле ввода
-  document.getElementById("searchResults").innerHTML = ""; // Очистить результаты поиска
+  document.getElementById("searchInput").value = ""; 
+  document.getElementById("searchResults").innerHTML = ""; 
   hideSlider(false);
 }
 
-// Функция проверки, является ли строка searchSub подстрокой строки str
 function isSubstring(searchSub, str) {
-  searchSub = searchSub.replace(/\s+/g, ''); // Убрать пробелы из поисковой подстроки
+  searchSub = searchSub.replace(/\s+/g, '');
   let index = 0;
   for (let char of str) {
       if (char === searchSub[index]) {
@@ -232,12 +213,10 @@ function displaySearchResults(results) {
           const productNameElement = product.getElementsByTagName("name")[0];
           if (productNameElement) {
               const productName = productNameElement.textContent;
-              const productLink = 'index-page.html?'; // Базовая часть ссылки
+              const productLink = 'index-page.html?'; 
 
-              // Собираем все параметры и добавляем к ссылке
               const params = new URLSearchParams();
 
-              // Проверяем наличие каждого тега и добавляем его к параметрам, если он существует
               const nameElement = product.getElementsByTagName('name')[0];
               if (nameElement) params.append('name', nameElement.textContent);
 
@@ -306,17 +285,14 @@ function displaySearchResults(results) {
 
               params.append('image', product.getElementsByTagName('image')[0].textContent);
 
-              // Создаем ссылку и добавляем текст продукта
               const productAnchor = document.createElement('a');
               productAnchor.setAttribute('href', productLink + params.toString());
               productAnchor.textContent = productName;
 
-              // Создаем элемент для отображения найденного продукта
               const productElement = document.createElement('div');
               productElement.classList.add('search__results');
               productElement.appendChild(productAnchor);
 
-              // Добавляем элемент в область результатов поиска
               searchResultsDiv.appendChild(productElement);
           } else {
               console.error("Элемент с тегом 'name' не найден для продукта:", product);
@@ -331,14 +307,12 @@ function displaySearchResults(results) {
 
 const searchInput = document.getElementById("searchInput");
 
-// Добавляем обработчик события для нажатия клавиши Enter
 searchInput.addEventListener("keypress", function(event) {
     if (event.key === "Enter") {
         search();
     }
 });
 
-// Добавляем обработчик события для нажатия клавиши Delete
 searchInput.addEventListener("keydown", function(event) {
     if (event.key === "Delete") {
         clearSearch();
@@ -350,11 +324,11 @@ searchInput.addEventListener("keydown", function(event) {
   if (event.key === "Backspace") {
       const searchText = searchInput.value.trim();
       if (event.ctrlKey) {
-          clearSearch(); // Если нажат Ctrl + Backspace, очищаем поиск
+          clearSearch(); 
       } else if (searchText.length === 1) {
-          clearSearch(); // Если остался только один символ, очищаем поиск
+          clearSearch(); 
       } else {
-          search(); // Если осталось более одного символа, обновляем результаты поиска
+          search(); 
       }
 
   }
@@ -362,7 +336,6 @@ searchInput.addEventListener("keydown", function(event) {
 
 
 
-// Функция для скрытия или показа слайдера
 function hideSlider(hide) {
   const popularSlider = document.querySelector(".content__popular");
   if (hide) {
@@ -375,34 +348,25 @@ function hideSlider(hide) {
 
     
 function addToCart(name, price) {
-  // Получаем данные о корзине из localStorage
   let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
-  // Проверяем, есть ли уже товар с таким именем в корзине
   const existingItemIndex = cart.findIndex(item => item.name === name);
-      // Если товара с таким именем еще нет в корзине, добавляем его
       cart.push({ name, price, quantity: 1 });
 
-  // Обновляем данные о корзине в localStorage
   localStorage.setItem('cart', JSON.stringify(cart));
 
-  // Обновляем счетчик корзины
   updateCartCounter();
 
   location.reload();
 }
 
 
-// Функция для обновления счетчика корзины
 function updateCartCounter() {
-  // Получаем данные о корзине из localStorage
   let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
-  // Обновляем счетчик корзины в шапке сайта
   document.querySelector('.header_basket').innerText = cart.length;
 }
 
-// Функция для обновления текста кнопки в корзине на обеих страницах
 function updateButtonStatus() {
   const cart = JSON.parse(localStorage.getItem('cart')) || [];
   console.log("Cart items:", cart);
