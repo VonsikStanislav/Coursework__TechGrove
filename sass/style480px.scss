@@ -210,18 +210,20 @@ footer
 {
 flex-wrap: wrap;
 height: 250px;
+display: block;
 }
 .footer__left__info
 {
     max-width: 120px;
-    padding-bottom: 50px;
-    float: right;
+    float: left;
+    margin-top: -60px;
 }
 .feedback
 {
     grid-template-columns: 60px 120px;
     padding-top: 80px;
-    margin-left: 40px;
+    margin-left: 36%;
+
 }
 .feedback--item
 {
